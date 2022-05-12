@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 📊 GitHub Stats
+<a href="https://github.com/wlbr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&theme=gruvbox" />
+</a>
+<a href="https://github.com/wlbr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlbr&theme=gruvbox" />
+</a>
+
 <!--
 **wlbr/wlbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
