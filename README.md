@@ -2,10 +2,10 @@
 
 ## 📊 GitHub Stats
 <a href="https://github.com/wlbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&theme=gruvbox&exclude_repo=csvfix&hide=makefile" />
 </a>
 <a href="https://github.com/wlbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlbr&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlbr&theme=gruvbox&show_icons=true" />
 </a>
 
 <!--
