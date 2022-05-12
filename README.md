@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 <a href="https://github.com/wlbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&theme=gruvbox&exclude_repo=csvfix" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&theme=gruvbox&exclude_repo=csvfix&layout=compact" />
 </a>
 <a href="https://github.com/wlbr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlbr&theme=gruvbox&show_icons=true" />
