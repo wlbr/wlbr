@@ -1,16 +1,24 @@
 <!-- ### Hi there 👋 -->
 
 ## 📊 GitHub Stats
-![Wlbr's language stats](https://github-readme-stats.vercel.app/api/top-lang/?username=wlbr&exclude_repo=csvfix&show_icons=true&theme=transparent)
+![Wlbr's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&exclude_repo=csvfix&show_icons=true&theme=transparent)
 ![Wlbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlbr&show_icons=true&theme=transparent)
 
-<!-- <a href="https://github.com/wlbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&exclude_repo=csvfix&layout=compact" />
+<br> <a href="https://github.com/wlbr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&exclude_repo=csvfix&layout=transparent" />
 </a>
 <a href="https://github.com/wlbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlbr&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlbr&show_icons=transparent" />
 </a>
--->
+<br>
+
+<p> <a href="https://github.com/wlbr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&exclude_repo=csvfix&layout=transparent" />
+</a>
+<a href="https://github.com/wlbr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlbr&show_icons=transparent" />
+</a>
+</p>
 <!--
 **wlbr/wlbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
