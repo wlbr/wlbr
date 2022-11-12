@@ -1,29 +1,13 @@
 <!-- ### Hi there 👋 -->
 
 ## 📊 GitHub Stats
-![Wlbr's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&exclude_repo=csvfix&show_icons=true&theme=transparent)
-![Wlbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlbr&show_icons=true&theme=transparent)
+![Wlbr's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&exclude_repo=csvfix&show_icons=true&theme=transparent&card_width=300&include_all_commits=true)
+![Wlbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlbr&show_icons=true&theme=transparent&card_width=370&include_all_commits=true)
 
-<br> <a href="https://github.com/wlbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&exclude_repo=csvfix&layout=transparent" />
-</a>
-<a href="https://github.com/wlbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlbr&show_icons=transparent" />
-</a>
-<br>
-
-<p> <a href="https://github.com/wlbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlbr&exclude_repo=csvfix&layout=transparent" />
-</a>
-<a href="https://github.com/wlbr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wlbr&show_icons=transparent" />
-</a>
-</p>
 <!--
 **wlbr/wlbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -33,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a computer scientist living in Karlsruhe, Germany. The little projects on Github are just side projects done in some spare time, usually.
+- 🔭 I’m working as contractor in my customers projects in the roles of a Scrum Master, Product Owner, Architect of (interim) maneger
+- 👯 You may book me at [inovex](https://inovex.de)
+- ⚡ You might want to check my site at  [wlbr.de](https://wlbr.de) 
