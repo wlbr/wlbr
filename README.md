@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm a computer scientist living in Karlsruhe, Germany. The little projects on Github are just side projects done in some spare time, usually.
 - 🔭 I’m working as contractor.  <br>
   In my customers projects I'm usually filling the roles of a scrum master, product owner, architect or (interim) manager as needed
-- 👯 You may book me at [inovex](https://inovex.de)
+- 👯 You may hire me at [inovex](https://inovex.de)
 - ⚡ You might want to check my site at  [wlbr.de](https://wlbr.de) 
 
 
